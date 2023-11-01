@@ -1,0 +1,35 @@
+<html>
+<head>
+<title>BIODATA</title>
+</head>
+<marquee>
+<body bgcolor="orange"><font color="black"><font size=30>Biodata</font>
+</marquee>
+<hr>
+<body><font size=5><font color="black">
+Name:sharmiladevi.K<br>
+Father's name:p.kesavan<br>
+Mothers's name:k.Bhuvanashwari <br>
+DOB:06.02.2003<br>
+Address: pattanam,coimbatore-641003.<br>
+Mobile no:1234566543<br>
+Religion:Hindu<br>
+Nationality:Indian<br>
+Gender:Female<br>
+College name:sri ramakrishna college of arts &science for women.<br>
+Qualification:3rd BCA<br>
+<table style="width:50%"border=3>
+<tr>
+<th>semester</th>
+<th>grade</th>
+<th>cpga %</th>
+</tr>
+<tr>
+<th>1</th>
+<th>S</th>
+<th>80%</th>
+</tr>
+<tr>
+<th>2</th>
+<th>A</th>
+<th>78 %</th>
